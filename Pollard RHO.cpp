@@ -1,3 +1,5 @@
+///Pollard RHO
+
 const long long LIM = LLONG_MAX;
 long long mul(long long a, long long b, long long m){
     long long x, res;
